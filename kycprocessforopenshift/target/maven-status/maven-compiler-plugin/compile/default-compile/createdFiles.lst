@@ -1,0 +1,11 @@
+com\boa\kycprocess\controllers\LoginController.class
+com\boa\kycprocess\models\Account.class
+com\boa\kycprocess\KycprocessApplication.class
+com\boa\kycprocess\configurations\DbConfiguration.class
+com\boa\kycprocess\controllers\AccountController.class
+com\boa\kycprocess\models\Customer.class
+com\boa\kycprocess\services\CustomerService.class
+com\boa\kycprocess\repositories\CustomerRepository.class
+com\boa\kycprocess\services\AccountService.class
+com\boa\kycprocess\controllers\CustomerController.class
+com\boa\kycprocess\repositories\AccountRepository.class
